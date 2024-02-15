@@ -14,8 +14,9 @@
           <td>eight
             <td>different
               <td>cells!
-              </td>table>
-      </tr></td>
+              </td>
+  </table>
+    
       </td>
     </tr>
   </head>
